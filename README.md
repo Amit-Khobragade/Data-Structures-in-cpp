@@ -3,6 +3,3 @@
 # basic aim efficciency with structures
 #structures included:
 #1- PRIORITY QUEUE - (MIN HEAP)
-~
-~
-~
