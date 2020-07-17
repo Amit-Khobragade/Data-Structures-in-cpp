@@ -25,6 +25,7 @@ struct queue_element {
 	}
 };
 
+
 //priority queue defined as an 
 //binary tree
 template<typename T>
